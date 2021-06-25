@@ -4,10 +4,10 @@
 [![Gmail Badge](https://img.shields.io/badge/-shea.fyffe-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:shea.fyffe@gmail.com)](mailto:shea.fyffe@gmail.com)
 [![Lab Badge](https://img.shields.io/badge/-PAID%20Lab-006633?style=flat&link=https://sites.google.com/view/paid-lab/home)](https://sites.google.com/view/paid-lab/home)
 [![ResearchGate Badge](https://img.shields.io/badge/-Shea%20Fyffe-00CCBB?style=flat&logo=ResearchGate&logoColor=white&link=https://www.researchgate.net/profile/Shea-Fyffe)](https://www.researchgate.net/profile/Shea-Fyffe)
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m interested in bringing programming into the Social Sciences. Specifically, teaching those is psychology, sociology, business, etc. how to program, so they can suprise themselves and others. 
+- 🎓 PhD student of Industrial/Organizational Psychology at George Mason University ([My academic page](https://psychology.gmu.edu/people/sfyffe))
+- 💞️ I’m looking to collaborate on anything that merges coding with the Social Sciences.
+- 📫 Feel free to connect with me by clicking the badges above.
 
 <!---
 Shea-Fyffe/Shea-Fyffe is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
